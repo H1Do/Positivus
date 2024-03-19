@@ -65,7 +65,7 @@ $mobile-s: 480px;
     }
   }
   @media (hover: none) {
-    &:hover {
+    &:active {
       @content;
     }
   }
